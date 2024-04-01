@@ -1,2 +1,2 @@
-#TRANSH:wQ!
+print("Hello World!!")
 
